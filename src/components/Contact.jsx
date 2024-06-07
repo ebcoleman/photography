@@ -19,7 +19,7 @@ import { FaPhoneAlt, FaFacebook } from 'react-icons/fa';
 
 const Contact = () => {
     return (
-        <div id="contact" className="contact my-12 mx-auto max-w-screen-md p-6  shadow-lg rounded-lg">
+        <div id="contact" className="contact my-12 mx-auto max-w-screen-md p-6 bg-white shadow-gray-400 shadow-lg rounded-lg">
             <h2 className="font-amatic-sc-regular text-center text-4xl leading-8 mb-8 font-bold text-[#483C32]">
                 Contact Me!
             </h2>
