@@ -1,5 +1,5 @@
 import { IoLogoGithub } from "react-icons/io";
-import { FaFacebook, FaInstagram, FaLinkedin } from "react-icons/fa";
+import {  FaLinkedin } from "react-icons/fa";
 
 const Footer = () => {
     return (
