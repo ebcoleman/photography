@@ -30,13 +30,13 @@
 
 const About = () => {
     return (
-        <div id="about" className="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl mb-10 mt-10"> 
+        <div id="about" className="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl mb-5 mt-20"> 
             <div className="md:flex">
                 <div className="md:shrink-0">
                     <img className="h-48 w-full object-cover md:h-full md:w-52" src='/images/studio.jpg' alt="Indy's Studio"></img>
                 </div>
                 <div className="p-8">
-                    <div className="uppercase tracking-wide text-sm text-[#483C32] font-semibold text-decoration-line: underline">ABOUT ME</div>
+                    <div className="uppercase tracking-wide text-md text-[#483C32] font-semibold ">ABOUT ME</div>
                     
                     <p className="mt-2 text-[#483C32]"> 
                         Welcome! My name is Indy Fitzgerald. I am a photographer that specializes in newborn, children and family photos. On my off days, I love spending time with my family. Please feel free to reach out for availability I would love to meet you.
